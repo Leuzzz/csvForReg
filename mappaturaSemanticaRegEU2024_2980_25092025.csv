@@ -27,5 +27,6 @@ Member_State,INCARICA,provider_of_wallet_relying_party_access_certificates
 provider_of_wallet_relying_party_access_certificates,EMETTE,wallet_relying_party_access_certificate
 wallet_relying_party_access_certificate,AUTENTICA_E_VALIDA,wallet_relying_party
 wallet_relying_party_access_certificate,RILASCIATO_A,wallet_relying_party
-# da inserire certificate e mapparlo a dovere
+# da inserire certificate e mapparlo a dovere,,
+
 
